@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="arrow-core-1.0-SNAPSHOT-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/99-arrow-lib/arrow-core-1.0-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-js-sandbox/01-js-sandbox.iml" filepath="$PROJECT_DIR$/01-js-sandbox/01-js-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-java-sandbox/02-java-sandbox.iml" filepath="$PROJECT_DIR$/02-java-sandbox/02-java-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-kotlin-sandbox/03-kotlin-sandbox.iml" filepath="$PROJECT_DIR$/03-kotlin-sandbox/03-kotlin-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-arrow/04-arrow.iml" filepath="$PROJECT_DIR$/04-arrow/04-arrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/isi3-tp7-prog-func.iml" filepath="$PROJECT_DIR$/.idea/isi3-tp7-prog-func.iml" />
+    </modules>
+  </component>
+</project>
