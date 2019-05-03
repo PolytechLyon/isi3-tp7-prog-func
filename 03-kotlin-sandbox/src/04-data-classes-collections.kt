@@ -1,4 +1,4 @@
-data class Tool(val name: String, var price: Int =0)
+data class Tool(val name: String, val price: Int =0)
 
 
 fun main(args: Array<String>) {
@@ -13,8 +13,7 @@ fun main(args: Array<String>) {
 
   // transformer (obtenir une nouvelle liste)
   val tools2 = tools.map { tool ->
-    tool.price = tool.price + 5
-    tool
+    Tool(tool.name,tool.price + 5)
   }
 
   println(tools)
